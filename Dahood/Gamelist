@@ -1,0 +1,73 @@
+{
+    "2788229376": {
+        "Name": "Da Hood",
+        "Remote": "MainEvent",
+        "Argument": "UpdateMousePosI"
+    },
+    "9825515356": {
+        "Name": "Hood Customs",
+        "Remote": "MainEvent",
+        "Argument": "MousePosUpdate"
+    },
+    "17344804827": {
+        "Name": "Yeno Hood",
+        "Remote": "MainEvent",
+        "Argument": "UpdateMousePos"
+    },
+    "5602055394": {
+        "Name": "Hood Modded",
+        "Remote": "MAINEVENT",
+        "Argument": "MousePos"
+    },
+    "17403265390": {
+        "Name": "Da Downhill",
+        "Remote": "MAINEVENT",
+        "Argument": "MOUSE"
+    },
+    "17403166075": {
+        "Name": "Da Bank",
+        "Remote": "MAINEVENT",
+        "Argument": "MOUSE"
+    },
+    "17403262882": {
+        "Name": "Da Uphill",
+        "Remote": "MAINEVENT",
+        "Argument": "MOUSE"
+    },
+    "15186202290": {
+        "Name": "Da Strike",
+        "Remote": "MAINEVENT",
+        "Argument": "MOUSE"
+    },
+    "11143225577": {
+        "Name": "1v1 Hood Aim Trainer",
+        "Remote": "MAINEVENT",
+        "Argument": "UpdateMousePos"
+    },
+    "15763494605": {
+        "Name": "Hood Aim",
+        "Remote": "MAINEVENT",
+        "Argument": "MOUSE"
+    },
+    "15166543806": {
+        "Name": "Moon Hood",
+        "Remote": "MAINEVENT",
+        "Argument": "MoonUpdateMousePos"
+    },
+    "17319408836": {
+        "Name": "OG Da Hood",
+        "Remote": "MAINEVENT",
+        "Argument": "UpdateMousePos",
+        "Adonis": true
+    },
+    "16033173781": {
+      "Name": "Da Hood Macro",
+      "Remote": "MainEvent",
+      "Argument": "UpdateMousePosI"
+    },
+    "7213786345": {
+      "Name": "Da Hood VC",
+      "Remote": "MainEvent",
+      "Argument": "UpdateMousePosI"
+    }
+  }
